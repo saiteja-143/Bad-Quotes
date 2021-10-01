@@ -1,0 +1,25 @@
+/* Css for breaking bad quotes */
+
+body{
+    background-image: url('breaking\ bad\ image.jpg');
+    /* to avoid the image get reapeated  */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+/* setting the html to 100%  */
+html{
+    height:100%;
+}
+
+.container
+{
+    margin-top: 15vh;
+}
+
+#quote_display{
+    width: 50%;
+}
+#h2{
+    margin-top: 45vh;
+    color:white;
+}
